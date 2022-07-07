@@ -1,0 +1,87 @@
+
+=============nikon=============
+name: DSC_0988_x4.png, 
+ corner_psnr: 29.89, 	 center_psnr: 41.40, 	 total_psnr: 30.15, 									
+ corner_SSIM: 0.8919, 	 center_SSIM: 0.9755, 	 total_SSIM: 0.9097, 									
+ corner_LPIPS: 0.200, 	 center_LPIPS: 0.070, 	 total_LPIPS: 0.183 	 
+name: DSC_1045_x4.png, 
+ corner_psnr: 29.34, 	 center_psnr: 37.74, 	 total_psnr: 29.58, 									
+ corner_SSIM: 0.8673, 	 center_SSIM: 0.9640, 	 total_SSIM: 0.8790, 									
+ corner_LPIPS: 0.191, 	 center_LPIPS: 0.035, 	 total_LPIPS: 0.176 	 
+name: DSC_1057_x4.png, 
+ corner_psnr: 30.59, 	 center_psnr: 40.41, 	 total_psnr: 30.84, 									
+ corner_SSIM: 0.9015, 	 center_SSIM: 0.9625, 	 total_SSIM: 0.9131, 									
+ corner_LPIPS: 0.144, 	 center_LPIPS: 0.053, 	 total_LPIPS: 0.132 	 
+name: DSC_1137_x4.png, 
+ corner_psnr: 26.25, 	 center_psnr: 36.61, 	 total_psnr: 26.50, 									
+ corner_SSIM: 0.7453, 	 center_SSIM: 0.9622, 	 total_SSIM: 0.7577, 									
+ corner_LPIPS: 0.319, 	 center_LPIPS: 0.037, 	 total_LPIPS: 0.303 	 
+name: DSC_1233_x4.png, 
+ corner_psnr: 29.75, 	 center_psnr: 40.26, 	 total_psnr: 30.00, 									
+ corner_SSIM: 0.9002, 	 center_SSIM: 0.9803, 	 total_SSIM: 0.9008, 									
+ corner_LPIPS: 0.170, 	 center_LPIPS: 0.032, 	 total_LPIPS: 0.171 	 
+name: DSC_1241_x4.png, 
+ corner_psnr: 27.40, 	 center_psnr: 37.32, 	 total_psnr: 27.65, 									
+ corner_SSIM: 0.8334, 	 center_SSIM: 0.9635, 	 total_SSIM: 0.8436, 									
+ corner_LPIPS: 0.291, 	 center_LPIPS: 0.070, 	 total_LPIPS: 0.280 	 
+name: DSC_1245_x4.png, 
+ corner_psnr: 34.42, 	 center_psnr: 42.34, 	 total_psnr: 34.65, 									
+ corner_SSIM: 0.9129, 	 center_SSIM: 0.9759, 	 total_SSIM: 0.9246, 									
+ corner_LPIPS: 0.181, 	 center_LPIPS: 0.056, 	 total_LPIPS: 0.156 	 
+name: DSC_1265_x4.png, 
+ corner_psnr: 32.06, 	 center_psnr: 41.85, 	 total_psnr: 32.31, 									
+ corner_SSIM: 0.8797, 	 center_SSIM: 0.9764, 	 total_SSIM: 0.8998, 									
+ corner_LPIPS: 0.217, 	 center_LPIPS: 0.060, 	 total_LPIPS: 0.195 	 
+name: DSC_1286_x4.png, 
+ corner_psnr: 31.52, 	 center_psnr: 39.30, 	 total_psnr: 31.75, 									
+ corner_SSIM: 0.8923, 	 center_SSIM: 0.9694, 	 total_SSIM: 0.8898, 									
+ corner_LPIPS: 0.190, 	 center_LPIPS: 0.039, 	 total_LPIPS: 0.189 	 
+name: DSC_1326_x4.png, 
+ corner_psnr: 29.11, 	 center_psnr: 37.19, 	 total_psnr: 29.34, 									
+ corner_SSIM: 0.8714, 	 center_SSIM: 0.9727, 	 total_SSIM: 0.8760, 									
+ corner_LPIPS: 0.201, 	 center_LPIPS: 0.028, 	 total_LPIPS: 0.199 	 
+name: DSC_1404_x4.png, 
+ corner_psnr: 24.65, 	 center_psnr: 36.96, 	 total_psnr: 24.91, 									
+ corner_SSIM: 0.7481, 	 center_SSIM: 0.9687, 	 total_SSIM: 0.7643, 									
+ corner_LPIPS: 0.169, 	 center_LPIPS: 0.024, 	 total_LPIPS: 0.160 	 
+name: DSC_1412_x4.png, 
+ corner_psnr: 31.56, 	 center_psnr: 42.74, 	 total_psnr: 31.82, 									
+ corner_SSIM: 0.9006, 	 center_SSIM: 0.9752, 	 total_SSIM: 0.9018, 									
+ corner_LPIPS: 0.184, 	 center_LPIPS: 0.041, 	 total_LPIPS: 0.172 	 
+name: DSC_1425_x4.png, 
+ corner_psnr: 27.54, 	 center_psnr: 37.23, 	 total_psnr: 27.79, 									
+ corner_SSIM: 0.8659, 	 center_SSIM: 0.9681, 	 total_SSIM: 0.8657, 									
+ corner_LPIPS: 0.240, 	 center_LPIPS: 0.040, 	 total_LPIPS: 0.236 	 
+name: DSC_1454_x4.png, 
+ corner_psnr: 26.78, 	 center_psnr: 36.46, 	 total_psnr: 27.03, 									
+ corner_SSIM: 0.7665, 	 center_SSIM: 0.9619, 	 total_SSIM: 0.7789, 									
+ corner_LPIPS: 0.294, 	 center_LPIPS: 0.045, 	 total_LPIPS: 0.279 	 
+name: DSC_1462_x4.png, 
+ corner_psnr: 27.62, 	 center_psnr: 36.44, 	 total_psnr: 27.86, 									
+ corner_SSIM: 0.7776, 	 center_SSIM: 0.9632, 	 total_SSIM: 0.8017, 									
+ corner_LPIPS: 0.280, 	 center_LPIPS: 0.039, 	 total_LPIPS: 0.262 	 
+name: DSC_1474_x4.png, 
+ corner_psnr: 26.36, 	 center_psnr: 34.83, 	 total_psnr: 26.60, 									
+ corner_SSIM: 0.8010, 	 center_SSIM: 0.9644, 	 total_SSIM: 0.8227, 									
+ corner_LPIPS: 0.248, 	 center_LPIPS: 0.037, 	 total_LPIPS: 0.238 	 
+name: DSC_1575_x4.png, 
+ corner_psnr: 23.41, 	 center_psnr: 34.00, 	 total_psnr: 23.66, 									
+ corner_SSIM: 0.5686, 	 center_SSIM: 0.9435, 	 total_SSIM: 0.5969, 									
+ corner_LPIPS: 0.417, 	 center_LPIPS: 0.051, 	 total_LPIPS: 0.402 	 
+name: DSC_1583_x4.png, 
+ corner_psnr: 26.39, 	 center_psnr: 34.54, 	 total_psnr: 26.62, 									
+ corner_SSIM: 0.7677, 	 center_SSIM: 0.9559, 	 total_SSIM: 0.7757, 									
+ corner_LPIPS: 0.253, 	 center_LPIPS: 0.039, 	 total_LPIPS: 0.246 	 
+name: DSC_1599_x4.png, 
+ corner_psnr: 29.05, 	 center_psnr: 38.27, 	 total_psnr: 29.30, 									
+ corner_SSIM: 0.8519, 	 center_SSIM: 0.9622, 	 total_SSIM: 0.8623, 									
+ corner_LPIPS: 0.160, 	 center_LPIPS: 0.042, 	 total_LPIPS: 0.151 	 
+name: DSC_1603_x4.png, 
+ corner_psnr: 24.74, 	 center_psnr: 34.79, 	 total_psnr: 24.99, 									
+ corner_SSIM: 0.7321, 	 center_SSIM: 0.9549, 	 total_SSIM: 0.7489, 									
+ corner_LPIPS: 0.262, 	 center_LPIPS: 0.037, 	 total_LPIPS: 0.249 	 
+
+ camera: nikon ======  			         
+ corner_psnr: 28.42, 	 center_psnr: 38.03, 	 total_psnr: 28.67, 					 
+ corner_SSIM: 0.8238, 	 center_SSIM: 0.9660, 	 total_SSIM: 0.8356, 					 
+ corner_LPIPS: 0.231, 	 center_LPIPS: 0.044, 	 total_LPIPS: 0.219 	 

@@ -1,0 +1,55 @@
+
+=============iphone=============
+name: IMG_17.png, 
+ corner_psnr: 24.48, 	 center_psnr: 31.18, 	 total_psnr: 25.43, 									
+ corner_SSIM: 0.8176, 	 center_SSIM: 0.8287, 	 total_SSIM: 0.8292, 									
+ corner_LPIPS: 0.205, 	 center_LPIPS: 0.124, 	 total_LPIPS: 0.191 	 
+name: IMG_20.png, 
+ corner_psnr: 24.12, 	 center_psnr: 27.64, 	 total_psnr: 24.77, 									
+ corner_SSIM: 0.8305, 	 center_SSIM: 0.9113, 	 total_SSIM: 0.8554, 									
+ corner_LPIPS: 0.115, 	 center_LPIPS: 0.073, 	 total_LPIPS: 0.103 	 
+name: IMG_2205.png, 
+ corner_psnr: 31.17, 	 center_psnr: 35.37, 	 total_psnr: 31.90, 									
+ corner_SSIM: 0.8713, 	 center_SSIM: 0.9210, 	 total_SSIM: 0.8831, 									
+ corner_LPIPS: 0.132, 	 center_LPIPS: 0.089, 	 total_LPIPS: 0.123 	 
+name: IMG_2730.png, 
+ corner_psnr: 29.26, 	 center_psnr: 32.12, 	 total_psnr: 29.82, 									
+ corner_SSIM: 0.6842, 	 center_SSIM: 0.8380, 	 total_SSIM: 0.7235, 									
+ corner_LPIPS: 0.240, 	 center_LPIPS: 0.117, 	 total_LPIPS: 0.213 	 
+name: IMG_2756.png, 
+ corner_psnr: 23.74, 	 center_psnr: 27.02, 	 total_psnr: 24.36, 									
+ corner_SSIM: 0.6961, 	 center_SSIM: 0.8340, 	 total_SSIM: 0.7303, 									
+ corner_LPIPS: 0.210, 	 center_LPIPS: 0.113, 	 total_LPIPS: 0.189 	 
+name: IMG_2817.png, 
+ corner_psnr: 26.89, 	 center_psnr: 31.87, 	 total_psnr: 27.70, 									
+ corner_SSIM: 0.7797, 	 center_SSIM: 0.8746, 	 total_SSIM: 0.8042, 									
+ corner_LPIPS: 0.200, 	 center_LPIPS: 0.114, 	 total_LPIPS: 0.184 	 
+name: IMG_2843.png, 
+ corner_psnr: 21.54, 	 center_psnr: 28.79, 	 total_psnr: 22.52, 									
+ corner_SSIM: 0.7928, 	 center_SSIM: 0.9131, 	 total_SSIM: 0.8145, 									
+ corner_LPIPS: 0.150, 	 center_LPIPS: 0.085, 	 total_LPIPS: 0.141 	 
+name: IMG_2984.png, 
+ corner_psnr: 25.42, 	 center_psnr: 27.65, 	 total_psnr: 25.88, 									
+ corner_SSIM: 0.8205, 	 center_SSIM: 0.9090, 	 total_SSIM: 0.8421, 									
+ corner_LPIPS: 0.158, 	 center_LPIPS: 0.085, 	 total_LPIPS: 0.145 	 
+name: IMG_3089.png, 
+ corner_psnr: 22.86, 	 center_psnr: 24.46, 	 total_psnr: 23.21, 									
+ corner_SSIM: 0.7444, 	 center_SSIM: 0.8442, 	 total_SSIM: 0.7840, 									
+ corner_LPIPS: 0.166, 	 center_LPIPS: 0.097, 	 total_LPIPS: 0.146 	 
+name: IMG_3134.png, 
+ corner_psnr: 24.94, 	 center_psnr: 29.26, 	 total_psnr: 25.68, 									
+ corner_SSIM: 0.7811, 	 center_SSIM: 0.8936, 	 total_SSIM: 0.8122, 									
+ corner_LPIPS: 0.161, 	 center_LPIPS: 0.088, 	 total_LPIPS: 0.145 	 
+name: IMG_3155.png, 
+ corner_psnr: 27.72, 	 center_psnr: 30.41, 	 total_psnr: 28.25, 									
+ corner_SSIM: 0.8054, 	 center_SSIM: 0.9027, 	 total_SSIM: 0.8306, 									
+ corner_LPIPS: 0.123, 	 center_LPIPS: 0.047, 	 total_LPIPS: 0.104 	 
+name: IMG_8.png, 
+ corner_psnr: 22.27, 	 center_psnr: 25.44, 	 total_psnr: 22.87, 									
+ corner_SSIM: 0.6649, 	 center_SSIM: 0.8077, 	 total_SSIM: 0.7008, 									
+ corner_LPIPS: 0.230, 	 center_LPIPS: 0.126, 	 total_LPIPS: 0.211 	 
+
+ camera: iphone ======  			         
+ corner_psnr: 25.37, 	 center_psnr: 29.27, 	 total_psnr: 26.03, 					 
+ corner_SSIM: 0.7740, 	 center_SSIM: 0.8732, 	 total_SSIM: 0.8008, 					 
+ corner_LPIPS: 0.174, 	 center_LPIPS: 0.097, 	 total_LPIPS: 0.158 	 
