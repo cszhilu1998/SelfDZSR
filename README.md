@@ -19,8 +19,11 @@ PyTorch implementation of [**Self-Supervised Learning for Real-World Super-Resol
 
 - **Dataset**
     - **Nikon camera images** and **CameraFusion dataset** can be downloaded from this [link](https://drive.google.com/drive/folders/1XTxU6iPxs_MZTM8g_hUsq0REWqB0P-AB?usp=sharing).
-
-
+   
+   
+- **Data pre-processing**
+    - If you want to pre-process additional short-focus images and telephoto images, we provide a demo in [`./data_preprocess`](./data_preprocess). (2022/9/13)
+    
 
 ## 3. Quick Start
 
