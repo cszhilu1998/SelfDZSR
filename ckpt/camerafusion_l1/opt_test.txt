@@ -1,0 +1,64 @@
+----------------- Options ---------------
+               FLOPs_only: False                         
+                    alpha: 0.99                          
+               batch_size: 16                            
+                    beta1: 0.9                           
+                    beta2: 0.999                         
+               block_mode: CRC                           
+                calc_psnr: False                         
+                   camera: nikon                         
+          checkpoints_dir: ./ckpt                        
+                     chop: True                          	[default: False]
+                 dataroot: ./                            	[default: ]
+             dataset_name: cam                           	[default: ['eth']]
+                drop_last: True                          
+                  dropout: 0.3                           
+                 finetune: False                         
+            finetune_name: None                          
+                 full_res: True                          	[default: False]
+                  gpu_ids: 0                             	[default: all]
+                    imlib: cv2                           
+                init_gain: 0.02                          
+                init_type: default                       
+                 input_nc: 3                             	[default: None]
+                  isTrain: False                         	[default: None]
+                load_iter: 401                           	[default: [0]]
+          load_optimizers: False                         
+                load_path:                               
+                     loss: L1                            
+                       lr: 0.0001                        
+           lr_decay_iters: 200                           
+                  lr_mode: lr                            
+                lr_policy: step                          
+                   matlab: False                         
+         max_dataset_size: inf                           
+                     mode: RGB                           
+                    model: refsr                         	[default: None]
+                 momentum: 0                             
+           multi_imreader: True                          
+                  n_feats: 64                            
+                 n_groups: 0                             
+              n_resblocks: 16                            
+                     name: camerafusion_l1               	[default: None]
+                    niter: 1000                          
+              niter_decay: 0                             
+           num_dataloader: 4                             
+                optimizer: Adam                          
+                output_nc: 3                             	[default: None]
+                    paste: True                          
+               patch_size: 48                            
+                  perturb: 10                            
+                  predict: True                          
+                  preload: True                          
+               print_freq: 100                           
+                res_scale: 1                             
+          save_epoch_freq: 1                             
+                save_imgs: True                          	[default: False]
+                    scale: 2                             
+           serial_batches: False                         	[default: None]
+                  shuffle: True                          
+                   suffix:                               
+               test_every: 1000                          
+                  verbose: True                          
+             weight_decay: 0                             
+----------------- End -------------------
