@@ -1,6 +1,22 @@
 # SelfDZSR (ECCV 2022)
 
-PyTorch implementation of [**Self-Supervised Learning for Real-World Super-Resolution from Dual Zoomed Observations**](https://arxiv.org/abs/2203.01325) 
+Official PyTorch implementation of [**SelfDZSR**](https://arxiv.org/abs/2203.01325) 
+
+
+> [**Self-Supervised Learning for Real-World Super-Resolution from Dual Zoomed Observations**](https://arxiv.org/abs/2203.01325) <br>
+> ECCV, 2022 <br>
+> [Zhilu Zhang](https://scholar.google.com/citations?user=8pIq2N0AAAAJ), [Ruohao Wang](https://scholar.google.com/citations?user=o1FPNwQAAAAJ), [Hongzhi Zhang](https://scholar.google.com/citations?user=Ysk4WBwAAAAJ), [Yunjin Chen](https://scholar.google.com/citations?user=CaoMb2AAAAAJ), [Wangmeng Zuo](https://scholar.google.com/citations?user=rUOpCEYAAAAJ)
+<br>Harbin Institute of Technology, China
+
+The extended version of SelfDZSR has been accepted by IEEE TPAMI in 2024.
+
+
+> [**Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations**](https://arxiv.org/abs/2405.02171) <br>
+> IEEE TPAMI, 2024 <br>
+> [Zhilu Zhang](https://scholar.google.com/citations?user=8pIq2N0AAAAJ), [Ruohao Wang](https://scholar.google.com/citations?user=o1FPNwQAAAAJ), [Hongzhi Zhang](https://scholar.google.com/citations?user=Ysk4WBwAAAAJ), [Wangmeng Zuo](https://scholar.google.com/citations?user=rUOpCEYAAAAJ)
+<br>Harbin Institute of Technology, China
+<br>GitHub: https://github.com/cszhilu1998/SelfDZSR_PlusPlus
+
 
 ## 1. Framework
 
@@ -66,8 +82,16 @@ If you find it useful in your research, please consider citing:
     @inproceedings{SelfDZSR,
         title={Self-Supervised Learning for Real-World Super-Resolution from Dual Zoomed Observations},
         author={Zhang, Zhilu and Wang, Ruohao and Zhang, Hongzhi and Chen, Yunjin and Zuo, Wangmeng},
-        booktitle={ECCV},
+        booktitle={European Conference on Computer Vision (ECCV)},
         year={2022}
+    }
+
+    @article{SelfDZSR_PlusPlus,
+        title={Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations},
+        author={Zhang, Zhilu and Wang, Ruohao and Zhang, Hongzhi and Zuo, Wangmeng},
+        journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+        year={2024},
+        publisher={IEEE}
     }
 
 ## 5. Acknowledgement
